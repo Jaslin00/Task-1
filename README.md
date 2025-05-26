@@ -18,6 +18,6 @@ It is used to in this to find the different packets on running the Nmap.
 4. Found different Nmap related traffic packets.
 5. Stop
 
-6. Uses:
+Uses:
 You can watch live how Nmap sends packets
 Learn how computers communicate (TCP SYN, ACK, RST)
